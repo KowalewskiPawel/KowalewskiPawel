@@ -1,15 +1,16 @@
 ### Hi there I'm Pawel Kowalewski
 
 <br/>
+
 ### About Me
+
 Professionally a university lecturer with more than 7 years of experience in teaching ESL. Coding and programming enthusiast, interested mainly in JavaScript and related technologies. After hours, amateur electro-acoustic guitarist, motorcyclist and rallyist.
 
 ### My motto
 
 Education is the first step to solve almost any possible problem, especially these days the impact of education and technology is more and more visible. Learning is my biggest passion, as it is one of the most satisfying parts of our life. It may lead to change, improvement of our life standards, and creation of new possibilities. This is also one of the main reasons, why I find programming so fascinating!
 
-## Technologies:
-<br/>
+## Technologies
 <br/>
 
 # Frontend:
@@ -20,7 +21,6 @@ Education is the first step to solve almost any possible problem, especially the
 <img alt='Sass' src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white&style=plastic" />
 <img alt='Bootstrap' src='https://img.shields.io/badge/-Bootsrap-7952B3?logo=bootstrap&logoColor=white&style=plastic' />
 <img alt='JavaScript' src='https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=plastic' />
-<br/>
 <br/>
 # Backend:
 <br/>
