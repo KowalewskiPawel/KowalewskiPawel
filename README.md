@@ -1,4 +1,4 @@
-### Hi there I'm Pawel Kowalewski 👋
+## Hi there I'm Pawel Kowalewski 👋
 
 ### About Me
 
@@ -10,7 +10,9 @@ Education is the first step to solve almost any possible problem, especially the
 
 ## Technologies
 <br/>
-# Frontend:
+
+### Frontend:
+
 <br/>
 <div>
 <img alt='ReactJS' src='https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white' />
@@ -21,7 +23,9 @@ Education is the first step to solve almost any possible problem, especially the
 <img alt='JavaScript' src='https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=plastic' />
 </div>
 <br/>
-# Backend:
+
+### Backend:
+
 <br/>
 <div>
 <img alt='NodeJS' src='https://img.shields.io/badge/-NodeJs-339933?logo=Nodejs&logoColor=white&style=plastic' />
@@ -31,7 +35,7 @@ Education is the first step to solve almost any possible problem, especially the
 <img alt='Mocha' src='https://img.shields.io/badge/-Mocha-8D6748?style=flat&logo=mocha&logoColor=white&style=plastic' />
 </div>
 
-# Utilities:
+### Utilities:
 <br/>
 <div>
 <img alt='Ubuntu' src='https://img.shields.io/badge/Ubuntu-OS-orange' />
@@ -41,8 +45,8 @@ Education is the first step to solve almost any possible problem, especially the
 <img alt='VSCode' src='https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white&style=plastic' />
 </div>
 <br/>
-<img alt='CodeWars' href='https://www.codewars.com/users/KowalewskiPawel' src='https://www.codewars.com/users/KowalewskiPawel/badges/large' />
-![KowalewskiPawel's github stats](https://github-readme-stats.vercel.app/api?username=kowalewskipawel&theme=dark&show_icons=true?count_private=true)
 
-[linkedin]: https://www.linkedin.com/in/pawe%C5%82-k-615146112/
+<img alt='CodeWars' href='https://www.codewars.com/users/KowalewskiPawel' src='https://www.codewars.com/users/KowalewskiPawel/badges/large' />
+
+![KowalewskiPawel's github stats](https://github-readme-stats.vercel.app/api?username=kowalewskipawel&theme=dark&show_icons=true?count_private=true)
 
