@@ -2,7 +2,7 @@
 
 ### About Me
 
-Professionally a university lecturer with more than 7 years of experience in teaching ESL. Coding and programming enthusiast, interested mainly in JavaScript and related technologies. After hours, amateur electro-acoustic guitarist, motorcyclist and rallyist.
+Software Engineer, and a university lecturer with more than 7 years of experience in teaching ESL. Coding and programming enthusiast, interested mainly in JavaScript and related technologies. After hours, amateur electro-acoustic guitarist, motorcyclist and rallyist.
 
 ### My motto
 
