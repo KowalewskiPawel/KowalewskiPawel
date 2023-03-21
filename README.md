@@ -2,7 +2,7 @@
 
 ### About Me
 
-Sofware Engineer, Ex-University Lecturer, Coding and programming enthusiast, interested mainly in Web Development and related technologies. After hours, amateur electro-acoustic guitarist, motorcyclist and rallyist.
+Software Engineer, Ex-University Lecturer, Coding and programming enthusiast, interested mainly in Web Development and related technologies. After hours, amateur electro-acoustic guitarist, motorcyclist and rallyist.
 
 ### My motto
 
