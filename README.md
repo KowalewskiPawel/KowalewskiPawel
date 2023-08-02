@@ -1,12 +1,12 @@
-## Hi there I'm Pawel Kowalewski 👋
+## Hi there I'm Pawel 👋
 
 ### About Me
 
-Software Engineer, Ex-University Lecturer, Coding and programming enthusiast, interested mainly in Web Development and related technologies. After hours, amateur electro-acoustic guitarist, motorcyclist and rallyist.
+Software Engineer and former University Lecturer, I'm a coding and programming enthusiast with a primary focus on Web Development and related technologies that hold significant potential for positive impact. Beyond my professional pursuits, I'm an amateur electro-acoustic guitarist, motorcyclist, and rally enthusiast outside of working hours.
 
-### My motto
+### My Motto - "Act, Reflect, Persist, Learn"
 
-Education is the first step to solve almost any possible problem, especially these days the impact of education and technology is more and more visible. Learning is my biggest passion, as it is one of the most satisfying parts of our life. It may lead to change, improvement of our life standards, and creation of new possibilities. This is also one of the main reasons, why I find programming so fascinating!
+Education is the foundational step to solving nearly any conceivable problem. Particularly in contemporary times, the influence of education and technology becomes increasingly evident. Learning is my greatest passion, as it stands as one of the most gratifying aspects of life. It holds the potential to induce change, elevate life standards, and generate fresh possibilities. This is also a primary reason why I find programming so captivating!
 
 ## Technologies
 <br/>
