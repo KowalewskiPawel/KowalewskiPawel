@@ -2,7 +2,7 @@
 
 ### About Me
 
-Software Engineer and former University Lecturer, I'm a coding and programming enthusiast with a primary focus on Web Development and related technologies that hold significant potential for positive impact. Beyond my professional pursuits, I'm an amateur electro-acoustic guitarist, motorcyclist, and rally enthusiast outside of working hours.
+Software Engineer, Educator, Content Creator, and a former University Lecturer. Coding and programming enthusiast with a primary focus on Web Development and related technologies that hold significant potential for positive impact. Beyond my professional pursuits, I'm an amateur electro-acoustic guitarist, motorcyclist, and rally enthusiast outside of working hours.
 
 ### My Motto - "Act, Reflect, Persist, Learn"
 
